@@ -1,5 +1,8 @@
 # Canny-Edge-Detector
-This repo contains the python implementation of the computer vision edge detection algorithm, the Canny Edge Detector. The code is wriiten from scratch with no use of open-cv. 
+This repo contains the python implementation of the computer vision edge detection algorithm, the Canny Edge Detector. The code is written from scratch with no use of open-cv. 
+
+# Instructions for running the jupyter notebook
+
 1: first run cell[1] or the very first cell containing library imports to import all the required libraries.
 
 2: Run all the cells bellow cell[2] or the one with the heading Conversion to gray scale. Run all cells bellow this heading by first selecting it and then clicking Cell --> Run All Bellow
